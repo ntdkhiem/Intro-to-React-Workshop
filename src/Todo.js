@@ -22,7 +22,7 @@ function Todo() {
 
     return (
         <div className="cover-container" id="todo">
-            <img src="/background2.jpg" alt="background image" class="h-100 w-100 position-absolute z-n1" />
+            <img src="/background2.jpg" alt="background" class="h-100 w-100 position-absolute z-n1" />
             <h1 className="text-center text-white">Todo List</h1>
             <div className="row w-50">
                 <div className="col-12 d-flex">
