@@ -1,0 +1,19 @@
+.cover-todo-container {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+}
+
+.cover-todo-container::after {
+    content: '';
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
+    z-index: -1;
+}
