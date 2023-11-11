@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Project for Introduction to React Workshop (HUM XI)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
