@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import './Todo.css';
 
 function Todo() {
     const [notes, setNotes] = useState([
@@ -22,7 +21,7 @@ function Todo() {
     }
 
     return (
-        <div className="cover-todo-container" id="todo">
+        <div className="cover-container" id="todo">
             <img src="/background2.jpg" alt="background image" class="h-100 w-100 position-absolute z-n1" />
             <h1 className="text-center text-white">Todo List</h1>
             <div className="row w-50">
