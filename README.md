@@ -1,4 +1,4 @@
-# Introduction to React Workshop (HUM XI, Hack(H)er413)
+# Introduction to React Workshop
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
